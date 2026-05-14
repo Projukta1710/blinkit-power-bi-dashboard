@@ -10,7 +10,7 @@ The goal of this project is to understand how different outlet and product featu
 
 ## Dashboard Preview
 
-![Blinkit Dashboard](image/dashboard_preview.png)
+![Blinkit Dashboard](image/dashboard_preview.png.png)
 
 ---
 
